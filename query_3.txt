@@ -8,4 +8,5 @@ JOIN rental r ON p.rental_id = r.rental_id
 GROUP BY 
     payment_month
 ORDER BY 
-    total_amount DESC;
+    total_amount DESC
+LIMIT 1;
