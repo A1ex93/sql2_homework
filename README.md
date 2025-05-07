@@ -10,7 +10,7 @@
 город нахождения магазина;
 количество пользователей, закреплённых в этом магазине.
 
-![Название скриншота 1]([ссылка на скриншот 1](https://github.com/A1ex93/sql2_homework/blob/main/image/1.png))
+![Название скриншота 1](https://github.com/A1ex93/sql2_homework/blob/main/image/1.png)
 
 
 ### Задание 2
