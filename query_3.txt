@@ -1,0 +1,11 @@
+SELECT 
+    DATE_FORMAT(p.payment_date, '%Y-%m') AS payment_month,
+    SUM(p.amount) AS total_amount,
+    COUNT(r.rental_id) AS rental_count
+FROM 
+    payment p
+JOIN rental r ON p.rental_id = r.rental_id
+GROUP BY 
+    payment_month
+ORDER BY 
+    total_amount DESC;
