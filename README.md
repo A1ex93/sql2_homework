@@ -17,7 +17,7 @@
 
 Получите количество фильмов, продолжительность которых больше средней продолжительности всех фильмов.
 
-![Название скриншота 2]([ссылка на скриншот 2](https://github.com/A1ex93/sql2_homework/blob/main/image/2.png))
+![Название скриншота 2](https://github.com/A1ex93/sql2_homework/blob/main/image/2.png)
 
 
 ### Задание 3
@@ -28,6 +28,6 @@
 
 ### Задание 4
 
-![Название скриншота]([ссылка на скриншот](https://github.com/A1ex93/sql2_homework/blob/main/image/3.png))
+![Название скриншота](https://github.com/A1ex93/sql2_homework/blob/main/image/3.png)
 
 Коды запросов в текстовом виде добавил в репозиторий в отдельных файлах
